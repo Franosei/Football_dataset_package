@@ -6,7 +6,7 @@
 \alias{leagueCR7-package}
 \title{League Matches Across the World}
 \format{
-The dataset 110938 historical world football matches
+The dataframe consist of 110938 historical world football matches
 \describe{
 \item{target}{The outcome of a match 0: Home team lost,1: Draw and, 2: Home team won }
 \item{home_team_name}{The name of the Home the team}
@@ -31,7 +31,7 @@ The dataset 110938 historical world football matches
 leagueCR7
 }
 \description{
-This is a data package that contains more than 150000
+This is a data package that contains more than 100000
 historical world football matches between 2018 and 2022,
 with more than 860 leagues and 9500 teams.
 }
