@@ -4,11 +4,11 @@
 \name{leagueCR7}
 \alias{leagueCR7}
 \alias{leagueCR7-package}
-\title{League Matches Accross the World}
+\title{League Matches Across the World}
 \format{
-A dataframe The data set contains more than 110938 historical world football matches
+The dataset 110938 historical world football matches
 \describe{
-\item{target}{The outcome of a match 0: Home team lost,1 Draw and, 2 Home team won }
+\item{target}{The outcome of a match 0: Home team lost,1: Draw and, 2: Home team won }
 \item{home_team_name}{The name of the Home the team}
 \item{league_name}{The league name}
 \item{is_cup}{If the value is 1 the match is played for a cup compettion.}
@@ -31,10 +31,8 @@ A dataframe The data set contains more than 110938 historical world football mat
 leagueCR7
 }
 \description{
-TThis is R data package that contains more than 150000
+This is a data package that contains more than 150000
 historical world football matches between 2018 and 2022,
 with more than 860 leagues and 9500 teams.
-
-A dataset upload in Kaggle  for Football Match Probability Prediction
 }
 \keyword{datasets}
