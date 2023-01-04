@@ -1,0 +1,19 @@
+---
+title: "Into_to_leagueCR7"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Into_to_leagueCR7}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(leagueCR7)
+```
