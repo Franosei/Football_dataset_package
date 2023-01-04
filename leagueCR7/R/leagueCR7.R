@@ -18,7 +18,7 @@ NULL
 #' \describe{
 #'   \item{target}{The outcome of a match 0: Home team lost,1: Draw and, 2: Home team won }
 #'   \item{home_team_name}{The name of the Home the team}
-#'   \item{league_name}{The league name}
+#'   \item{league_name}{league name}
 #'   \item{is_cup}{If the value is 1 the match is played for a cup compettion.}
 #'   \item{home_team_win_rate}{Average number of matches won by home team in their last 10 matches}
 #'   \item{home_team_goals_rate}{Average number of goals scored by home team in their last 10 matches}
