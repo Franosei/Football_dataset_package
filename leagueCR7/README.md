@@ -11,13 +11,11 @@ the world between the period of 2018 and 2022
 
 ## Installation
 
-You can install the development version of leagueCR7 from
-[GitHub](https://github.com/) with:
+You can install the development version of leagueCR7 from GitHub
+remotes::install_github(“Franosei/Football_dataset_package/leagueCR7”)
 
-``` r
-# install.packages("devtools")
-remotes::install_github("Franosei/Football_dataset_package/leagueCR7")
-```
+To avoid installing the package from Github, you can use use the
+following command in your console “renv::restore()”
 
 ## Example
 
